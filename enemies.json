@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Witch",
+    "role": "Healer",
+    "hp": 70,
+    "agi": 15
+  },
+
+  {
+    "name": "Troll",
+    "role": "Tank",
+    "hp": 110,
+    "agi": 8
+  },
+
+  {
+    "name": "Bandit",
+    "role": "Attacker",
+    "hp": 80,
+    "agi": 10
+  },
+
+  {
+    "name": "Shaman",
+    "role": "Healer",
+    "hp": 70,
+    "agi": 15
+  },
+
+  {
+    "name": "Goblin",
+    "role": "Tank",
+    "hp": 110,
+    "agi": 8
+  },
+
+  {
+    "name": "Ghost",
+    "role": "Attacker",
+    "hp": 80,
+    "agi": 10
+  }
+]
+

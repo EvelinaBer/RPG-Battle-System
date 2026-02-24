@@ -1,0 +1,44 @@
+
+  [
+    {
+      "name": "Keira",
+      "role": "Healer",
+      "hp": 80,
+      "agi":  15
+    },
+
+    {
+      "name": "Thorn",
+      "role": "Tank",
+      "hp": 120,
+      "agi":  8
+    },
+
+    {
+      "name": "Knight",
+      "role": "Attacker",
+      "hp": 90,
+      "agi": 10
+    },
+
+    {
+      "name": "Sage",
+      "role": "Healer",
+      "hp": 80,
+      "agi": 15
+    },
+
+    {
+      "name": "Bjorn",
+      "role": "Tank",
+      "hp": 120,
+      "agi": 8
+    },
+
+    {
+      "name": "Rogue",
+      "role": "Attacker",
+      "hp": 90,
+      "agi": 10
+    }
+  ]
